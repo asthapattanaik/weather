@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://drive.google.com/file/d/1QLHkkeojdpWtfBOu_xEV6aww8SpWsexJ/view?usp=sharing" width="100%">
-</p>
+<h1>Weather Predictor Application</h1>
+
+<p> This application predicts live weather of any location entered in the search tab</p>
 
 
 
